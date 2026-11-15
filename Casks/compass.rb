@@ -2,8 +2,7 @@ cask "compass" do
   version "20261115.1657"
   sha256 "4dfd830584897dc049b8b12156c6dca7bd22391307c3b94b6f9f05ebd843167e"
 
-  url "https://github.com/Compass-Browser/Compass/releases/download/v#{version}/Compass-#{version}.dmg",
-      verified: "github.com/Compass-Browser/Compass/"
+  url "https://github.com/Compass-Browser/Compass/releases/download/v#{version}/Compass-#{version}.dmg"
   name "Compass"
   name "Compass Browser"
   desc "Open-source Arc alternative built on Chromium"
