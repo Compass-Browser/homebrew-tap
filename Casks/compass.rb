@@ -1,6 +1,6 @@
 cask "compass" do
-  version "20261127.0209"
-  sha256 "1b60074d3e9ff8a8eea26f34cda20a2d199dd0869961e2756912caef6bb300d7"
+  version "20261127.1842"
+  sha256 "2bc7cf2c973675a42cd30907e2b8edecb2def18f43c0d6854686d927987bc6d5"
 
   url "https://github.com/Compass-Browser/Compass/releases/download/v#{version}/Compass-#{version}.dmg"
   name "Compass"
